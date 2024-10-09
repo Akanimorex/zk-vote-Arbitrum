@@ -12,21 +12,21 @@ Our mission is to democratize the voting process, making it easy, creative, and 
 
 In many African countries, the voting systems face challenges that weaken trust in democratic processes:
 
-  1. Vote Tampering and Fraud: Election results are often compromised by manipulation or tampering with ballots.
-  2. Lack of Transparency: Many voters are skeptical about whether their votes are counted accurately or fairly.
-  3. Disenfranchisement: Certain groups, like students, diasporas, and rural communities, are often excluded or face hurdles in participating.
-  4. Inefficient and Costly: Manual processes for voter registration, voting, and counting lead to delays, errors, and expensive election management.
-  5. Security and Privacy Concerns: Voters are not always sure if their vote is anonymous, and breaches in privacy can deter participation.
+  *1. Vote Tampering and Fraud:* Election results are often compromised by manipulation or tampering with ballots.
+  *2. Lack of Transparency:* Many voters are skeptical about whether their votes are counted accurately or fairly.
+  *3. Disenfranchisement:* Certain groups, like students, diasporas, and rural communities, are often excluded or face hurdles in participating.
+  *4. Inefficient and Costly:* Manual processes for voter registration, voting, and counting lead to delays, errors, and expensive election management.
+  *5. Security and Privacy Concerns:* Voters are not always sure if their vote is anonymous, and breaches in privacy can deter participation.
 
 ## The ZK-VOTE-AFRICA Solution
 
 **ZK-VOTE-AFRICA** tackles these problems through decentralized blockchain technology that ensures voting is:
 
-  1. Anonymized with EDSA Cryptography: Our platform uses EDSA cryptography to anonymize votes, protecting voter privacy while ensuring their votes are securely cast and counted.
-  2. Transparent and Secure: Every vote is recorded immutably on the Arbitrum blockchain, ensuring that no one can alter or tamper with results. Voters can verify their participation, fostering trust and transparency.
-  3. Inclusive and Accessible: By lowering the barrier to entry, **ZK-VOTE-AFRICA** is designed for grassroots participation, allowing everyone—from students to workers—to easily engage in the democratic process.
-  4. Cost-Effective and Efficient: Blockchain’s automated processes minimize election costs and eliminate human errors in vote counting. Results are collated automatically and in real time.
-  5. Global Reach: Diaspora voters can also easily participate in elections from anywhere in the world, ensuring equal representation.
+  *1. Anonymized with EDSA Cryptography:* Our platform uses EDSA cryptography to anonymize votes, protecting voter privacy while ensuring their votes are securely cast and counted.
+  *2. Transparent and Secure:* Every vote is recorded immutably on the Arbitrum blockchain, ensuring that no one can alter or tamper with results. Voters can verify their participation, fostering trust and transparency.
+  *3. Inclusive and Accessible:* By lowering the barrier to entry, **ZK-VOTE-AFRICA** is designed for grassroots participation, allowing everyone—from students to workers—to easily engage in the democratic process.
+  *4. Cost-Effective and Efficient:* Blockchain’s automated processes minimize election costs and eliminate human errors in vote counting. Results are collated automatically and in real time.
+  *5. Global Reach:* Diaspora voters can also easily participate in elections from anywhere in the world, ensuring equal representation.
 
 ## How ZK-VOTE-AFRICA Impacts Everyday Lives
 
