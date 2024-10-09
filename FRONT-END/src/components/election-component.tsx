@@ -51,7 +51,7 @@ const ElectionComponent = () => {
 
   const { data: candidates } = useReadContract({
     abi,
-    address: "0xbA2DbEfAfA35B2881F4CbB0041133De9BB23785D",
+    address: "0x00A75d5A6bFCCcE009Ef7c62D2d306fC29b08FD0",
     functionName: "getCandidates",
   });
 
@@ -76,7 +76,7 @@ const ElectionComponent = () => {
       if (signedMessage) {
           writeContract({
             abi,
-            address: "0xbA2DbEfAfA35B2881F4CbB0041133De9BB23785D",
+            address: "0x00A75d5A6bFCCcE009Ef7c62D2d306fC29b08FD0",
             functionName: "castVote",
             args: [0, signedMessage],
           });
