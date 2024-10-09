@@ -3,7 +3,7 @@ import { Open_Sans, Space_Grotesk } from "next/font/google";
 import "./globals.css";
 import { Providers } from "@/components";
 import Image from "next/image";
-import { lisk, voting, voting4 } from "@/assets";
+import { lisk, voting, voting4, base, arbitrum } from "@/assets";
 import Link from "next/link";
 import "@rainbow-me/rainbowkit/styles.css";
 import CustomConnectButton from "@/components/custom-connect-button";
@@ -49,8 +49,9 @@ export default function RootLayout({
                   className="text-2xl md:text-3xl font-extrabold text-primary-green font-space-grotesk relative"
                 >
                   <span className="flex items-center gap-1 absolute text-sm lefy-0 sm:-right-14 -bottom-4 text-gray-700 ">
-                    powered by lisk{" "}
-                    <Image src={lisk} alt="hello" width={10} height={10} />
+                    powered by Arbitrum{" "}
+                    <Image src={arbitrum} alt="hello" width={20} height={20}/>
+                    {/* <Image src={lisk} alt="hello" width={10} height={10} /> */}
                   </span>
                   ZkVote Africa
                 </Link>

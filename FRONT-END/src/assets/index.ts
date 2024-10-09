@@ -15,6 +15,8 @@ import candidateTwo from "./knw.png"
 import candidateThree from "./atiku.png"
 import candidateFour from "./tnb.png"
 import lisk from './lisk.png';
+import base from './base.png'
+import arbitrum from './arbitrum.png'
 import avatarCandidate from './avatar-candidate.png';
 
 export {
@@ -36,4 +38,6 @@ export {
     candidateFour,
     lisk,
     avatarCandidate,
+    base,
+    arbitrum
 }
