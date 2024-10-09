@@ -13,9 +13,13 @@ Our mission is to democratize the voting process, making it easy, creative, and 
 In many African countries, the voting systems face challenges that weaken trust in democratic processes:
 
   *1. Vote Tampering and Fraud:* Election results are often compromised by manipulation or tampering with ballots.
+
   *2. Lack of Transparency:* Many voters are skeptical about whether their votes are counted accurately or fairly.
+
   *3. Disenfranchisement:* Certain groups, like students, diasporas, and rural communities, are often excluded or face hurdles in participating.
+
   *4. Inefficient and Costly:* Manual processes for voter registration, voting, and counting lead to delays, errors, and expensive election management.
+
   *5. Security and Privacy Concerns:* Voters are not always sure if their vote is anonymous, and breaches in privacy can deter participation.
 
 ## The ZK-VOTE-AFRICA Solution
@@ -23,9 +27,13 @@ In many African countries, the voting systems face challenges that weaken trust 
 **ZK-VOTE-AFRICA** tackles these problems through decentralized blockchain technology that ensures voting is:
 
   *1. Anonymized with EDSA Cryptography:* Our platform uses EDSA cryptography to anonymize votes, protecting voter privacy while ensuring their votes are securely cast and counted.
+
   *2. Transparent and Secure:* Every vote is recorded immutably on the Arbitrum blockchain, ensuring that no one can alter or tamper with results. Voters can verify their participation, fostering trust and transparency.
+
   *3. Inclusive and Accessible:* By lowering the barrier to entry, **ZK-VOTE-AFRICA** is designed for grassroots participation, allowing everyone—from students to workers—to easily engage in the democratic process.
+
   *4. Cost-Effective and Efficient:* Blockchain’s automated processes minimize election costs and eliminate human errors in vote counting. Results are collated automatically and in real time.
+
   *5. Global Reach:* Diaspora voters can also easily participate in elections from anywhere in the world, ensuring equal representation.
 
 ## How ZK-VOTE-AFRICA Impacts Everyday Lives
@@ -33,7 +41,9 @@ In many African countries, the voting systems face challenges that weaken trust 
 Voting is part of our everyday decisions, whether in schools, unions, or social contexts. **ZK-VOTE-AFRICA** brings democracy to everyone, offering a creative and simple platform for decision-making:
 
   • Creative Participation: Cast your vote in elections for your school, union, or even reality TV shows, all from your phone or laptop with just a few clicks.
+
   • Empowerment from the Grassroots: Local communities, unions, and organizations can now organize secure and trusted elections on their own terms, giving people a voice in decisions that impact their lives—no bureaucracy, no delays.
+
   • Democracy for All: Voting is no longer restricted to a privileged few. With **ZK-VOTE-AFRICA**, anyone, regardless of technical ability, can participate in elections, contributing to the collective decision-making process.
 
 ## Key Features
@@ -53,11 +63,14 @@ Voting is part of our everyday decisions, whether in schools, unions, or social 
 ## Technology Stack
 ### Backend
   • Arbitrum Blockchain: **ZK-VOTE-AFRICA** is built on Arbitrum, a Layer 2 scaling solution for Ethereum, ensuring fast, secure, and scalable transactions with low fees.
+
   • Solidity: The smart contracts powering the voting process are written in Solidity, the leading programming language for Ethereum and its Layer 2 chains.
 
 ### Frontend
   • React.js: A modern, dynamic user interface that provides a smooth, user-friendly experience for voters across all devices.
+
   • Wagmi: A collection of hooks that make it simple to interact with Ethereum, ensuring seamless communication between the frontend and the blockchain.
+
   • Web3.js: Connects the decentralized voting application to the Arbitrum blockchain, facilitating interactions between voters and smart contracts.
 
 ## Usability, Simplicity, Efficiency, and Performance
@@ -65,8 +78,11 @@ Voting is part of our everyday decisions, whether in schools, unions, or social 
 **ZK-VOTE-AFRICA** is built to be intuitive and easy to use, focusing on providing a seamless voting experience:
 
   • *One-Click Voting:* Cast your vote with one click by connecting your ENS address.
+
   • *Seamless User Experience:* The platform is designed to be intuitive, requiring minimal technical knowledge. Anyone can vote with ease.
+
   • *Low Barrier to Entry:* No complicated procedures or setups. The system’s simple design enables widespread adoption, especially for grassroots communities.
+  
 With Arbitrum’s high-speed transactions and Solidity-based contracts, **ZK-VOTE-AFRICA** ensures efficient performance. Elections are run faster, more cost-effectively, and with better transparency than traditional systems.
 
 ## Our Approach
